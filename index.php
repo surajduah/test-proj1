@@ -9,4 +9,5 @@ Contact goes here
 
 Added Contacts.html in last commit
 this would sdave more contacts
+fixing the master branch bugs
 ?>
